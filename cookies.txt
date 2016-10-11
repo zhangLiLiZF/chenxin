@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.antgroup.com	TRUE	/	FALSE	1999999999	ctoken	N8sUkYk9q2zNEPWiwDOustaticweb
+www.antgroup.com	TRUE	/	FALSE	1999999999	locale	en-us
+www.antgroup.com	TRUE	/	FALSE	1999999999	locale.sig	C2C8iBu4AwemHj0sqnotLakv39cJN-k6yC58tU0Q91c
+www.antgroup.com	TRUE	/	FALSE	1999999999	spanner	vnCDHLCx+76YBPeL1x6AIrLmUwJ9gGNrXt2T4qEYgj0=
+
